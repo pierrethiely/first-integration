@@ -1,0 +1,310 @@
+@media screen and (max-width: 438.98px) {
+  	.hide-bis {
+  		display: none;
+  	}  	
+}  	
+
+@media screen and (min-width: 442.98px) {
+  	.btn-appear {
+  		display: none;
+  	}
+}
+
+@media screen and (max-width: 442.98px) {
+  	.btn-disappear {
+  		display: none;
+  	}
+}
+
+@media screen and (min-width: 575.98px) {
+  	.coordappear {
+  		display: none;
+  	}
+}  	
+
+@media screen and (max-width: 575.98px) {
+  	.coorddisappear {
+  		display: none;
+  	}
+}  	
+
+@media screen and (min-width: 767.98px) {
+	.responsive {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 767.98px) {
+	.navigation {
+  		display: none;
+  	}
+
+	.margin {
+		margin-bottom: 15px;
+	} 
+
+	label.form-check-label {
+		font-size: 25px;
+	}
+
+  	p.card-text {
+  		font-size: 15px;
+  	}
+
+  	p.resp {
+		margin-bottom: -7px;
+		font-family  : "Broadway", "Arial", serif;
+		font-weight  : 700;
+  	}
+
+	.titre {
+  		font-size: 35px;
+  	}
+
+  	h2.res {
+  		font-size: 35px;
+  	}
+
+  	h3.bienvenue {
+  		font-size: 30px;
+  	}
+
+  	p.desc {
+  		font-size: 20px;
+  	}
+
+  	label {
+  		font-size: 20px;
+  	}
+
+  	h5.carte.card-title {
+  		font-size: 15px;
+  	}
+
+  	h6.titre {
+		font-size: 35px;
+  	}
+
+}
+
+@media screen and (max-width: 824.98px) {
+  	.hide {
+  		display: none;
+  	}  	
+}  	
+
+@media screen and (max-width: 1001px) {
+  	p br {
+  		display: none;
+  	}
+}  	 
+
+@media screen and (min-width: 1001.98px) {
+  	.socappear {
+  		display: none;
+  	}
+}  	
+
+@media screen and (max-width: 1001.98px) {
+  	.socdisappear {
+  		display: none;
+  	}
+}  	
+
+body {
+	font-family: "HP Simplified", "Arial", serif;
+}
+
+h1 {
+	text-shadow  : 0px 0px 6px #000, 0px 0px 6px #000, 0px 0px 6px #000, 0px 0px 6px #000;
+	font-size    : 4.1vw;
+	font-weight  : 700;
+	margin-bottom: 0;
+}
+
+h2 {
+	color           : white;
+	background-color: black;
+	font-weight     : 700;
+	font-size       : 48px;
+	padding-left    : 15px;
+}
+
+h2.res {
+	background-color: white;
+	color           : black;
+}
+
+h3 {
+	font-weight   : 700;
+	font-size     : 35px;
+	color         : white;
+	padding-left  : 4%;
+	padding-top   : 2.5%;
+	padding-bottom: 1%;
+	border-bottom : 5px solid #464646;
+}
+
+h4 {
+	font-family: "Broadway", "Arial", serif;
+	font-weight: 700;
+	font-size  : 2.5vw;
+}
+
+h5 {
+	font-size  : 79px;
+	font-weight: 700;
+}
+
+h5.carte {
+	color    : #FF491A;
+	font-size: 20px;
+}
+
+h6 {
+	color       : black;
+	font-weight : 700;
+	font-size   : 48px;
+	padding-left: 15px;
+}
+
+p {
+	font-weight: 700;
+	font-size  : 25px;
+	color      : black;
+}
+ 
+p.coord {
+	font-size  : 15px;
+	margin-left: 20px;
+	padding-top: 15px;
+}
+
+p.coord-list {
+	font-size   : 15px;
+	margin      : 0;
+	padding-left: 20px;
+}
+
+p.desc {
+	padding-left  : 4%;
+	padding-top   : 0.5%;
+	padding-bottom: 1.5%;
+}                                                                
+
+p.heure {
+	color        : white;
+	font-size    : 2.5vw;
+	font-weight  : 700;
+	margin-bottom: 0;
+	text-shadow  : 0px 0px 6px #000, 0px 0px 6px #000, 0px 0px 6px #000, 0px 0px 6px #000, 0px 0px 6px #000, 0px 0px 6px #000;
+}
+
+a {
+	text-decoration: none;
+	color          : black;
+}
+
+a:hover {
+	text-decoration: none;
+	color          : red;
+}
+
+ul {
+	font-weight   : 100;
+	font-size     : 1.8vw;
+	padding-bottom: 25px;
+}
+
+ul.bars {
+	padding    : 0px;
+	font-weight: 100;
+	font-size  : 20px;
+}
+
+button {
+	margin-top   : 10px;
+	margin-bottom: 20px; 
+}
+
+label {
+	font-size: 25px;
+}
+
+i {
+	padding: 1px 5px 1px 5px;
+	border : 2px solid black;
+}
+
+ol {
+	padding: 0;
+}
+
+.navigation {
+	position: fixed;
+}
+
+.description {
+	background-color: #FF491A;
+	height          : 100%;
+}
+
+.accordion {
+	float: right;
+}
+
+.menu {
+	margin-top: 10%;
+}
+
+.fas {
+	color: black;
+}
+
+.titre {
+	margin-top   : 0;
+	margin-bottom: 0;
+}
+
+.sociaux {
+	margin-left: 2%;
+	margin-top : 80px;          
+}
+
+.soc {
+	margin-bottom: 60px;
+	margin-top   : 60px;         
+}
+
+.sym {
+	transform: scaleX(-1);
+}
+
+.card {
+	border    : none;
+	margin-top: 10px;
+}
+
+.svg {
+	margin-top   : 10px;
+	margin-bottom: 10px;
+	margin-left  : 15px;
+}
+
+#inlineFormCustomSelect {
+	margin-left: 20px;
+	width      : 70%;
+	margin-top : 20px;
+}
+
+.form {
+	margin-top: 10px;
+}
+
+.form-check-input {
+	margin-top: 10px;
+}
+
+.check {
+	margin-top: 25px;
+}
